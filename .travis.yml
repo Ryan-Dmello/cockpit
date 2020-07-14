@@ -1,5 +1,7 @@
 sudo: false
 dist: trusty
+arch:
+  - ppc64le
 notifications:
   irc:
     channels:
