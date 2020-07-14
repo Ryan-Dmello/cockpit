@@ -53,9 +53,7 @@ addons:
     - libpolkit-agent-1-dev
     - libpolkit-gobject-1-dev
     - libssh-dev
-    - libsystemd-daemon-dev
-    - libsystemd-login-dev
-    - libsystemd-journal-dev
+    - libsystemd-dev
     - libkrb5-dev
     - pcp
     - pkg-config
